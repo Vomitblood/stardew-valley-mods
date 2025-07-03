@@ -1,0 +1,6 @@
+{
+  "HourFormat": "H24_HOUR_FIXED",
+  "MinuteFormat": "EACH_MINUTE",
+  "AmPmPosition": "NONE",
+  "DisableClock": false
+}
