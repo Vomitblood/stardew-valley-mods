@@ -13,7 +13,7 @@
    git clone https://git.vomitblood.com/Vomitblood/stardew-valley-mods.git Mods
    ```
 
-   - Stardew Valley game directory should look like this:
+   - Stardew Valley game directory should look like this:  
      ![screenshot](assets/screenshot.png)
 
 3. Install SMAPI. Follow the instructions for your platform on [the official website](https://smapi.io/).
