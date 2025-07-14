@@ -1,2 +1,3 @@
 # ignore config files in each subdirectory
 # */config.json
+private/*
