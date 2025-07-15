@@ -33,7 +33,7 @@
   "AddWarps": [],
   "AlwaysGiveGift": false,
   "NoFriendshipDecay": true,
-  "DurableFences": false,
+  "DurableFences": true,
   "InstantBuild": false,
   "AutoFeed": false,
   "AutoPetAnimals": true,
