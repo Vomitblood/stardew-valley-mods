@@ -20,7 +20,7 @@
   "ThrowBobberMax": false,
   "DurableTackles": false,
   "AlwaysTreasure": false,
-  "FreezeTime": true,
+  "FreezeTime": false,
   "FreezeTimeInside": false,
   "FreezeTimeCaves": false,
   "FadeTimeFrozenMessage": false,
