@@ -18,3 +18,7 @@
 
 3. Install SMAPI. Follow the instructions for your platform on [the official website](https://smapi.io/).
 4. Run the game. Profit.
+
+# Note
+
+Private subdirectory is for testing mods, ignore the contents.
